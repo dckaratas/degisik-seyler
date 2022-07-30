@@ -1,0 +1,21 @@
+body{
+    background-image: url("assets/bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.main{
+    padding: 30px;
+}
+.play-section,social-section{
+    margin-top: 23rem;
+}
+.social-section{
+    padding: 30px;
+}
